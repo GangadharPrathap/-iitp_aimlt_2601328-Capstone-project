@@ -1,0 +1,21 @@
+book_id,title,price_gbp,price_inr,rating,in_stock,category_name
+110,Born for This: How to Find the Work You Were Meant to Do,21.59,2277.74,5,1,Business
+107,Made to Stick: Why Some Ideas Survive and Others Die,38.85,4098.68,5,1,Business
+108,Quench Your Own Thirst: Business Lessons Learned Over a Beer or Two,43.14,4551.27,1,1,Business
+114,Rework,44.88,4734.84,2,1,Business
+112,"Rich Dad, Poor Dad",51.74,5458.57,1,1,Business
+106,Shoe Dog: A Memoir by the Creator of NIKE,23.99,2530.94,2,1,Business
+105,The 10% Entrepreneur: Live Your Startup Dream Without Quitting Your Day Job,27.55,2906.52,3,1,Business
+109,The Art of Startup Fundraising,21.0,2215.5,3,1,Business
+103,The Dirty Little Secrets of Getting Your Dream Job,33.34,3517.37,4,1,Business
+111,The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It,36.91,3894.0,1,1,Business
+113,The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses,33.92,3578.56,3,1,Business
+104,The Third Wave: An Entrepreneurâs Vision of the Future,12.61,1330.36,5,1,Business
+76,Alice in Wonderland (Alice's Adventures in Wonderland #1),55.53,5858.42,1,1,Classics
+70,And Then There Were None,35.01,3693.56,2,1,Classics
+65,Animal Farm,57.22,6036.71,3,1,Classics
+69,Beowulf,38.35,4045.92,2,1,Classics
+64,Candide,58.63,6185.46,3,1,Classics
+75,Emma,32.93,3474.12,2,1,Classics
+63,Gone with the Wind,32.49,3427.7,3,1,Classics
+62,Little Women (Little Women #1),28.07,2961.38,4,1,Classics
